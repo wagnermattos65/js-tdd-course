@@ -1,0 +1,19 @@
+{
+  "name": "js-tdd-course",
+  "version": "1.0.0",
+  "description": "> Short blurb about what your product does.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "node_modules/.bin/eslint src/*.js"
+  },
+  "keywords": [],
+  "author": "Wagner Mattos <wagner_mattos@msn.com> (https://wgnr8.com.br/)",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^13.0.0",
+    "eslint-plugin-import": "^2.13.0",
+    "husky": "^1.0.0-rc.9"
+  }
+}
