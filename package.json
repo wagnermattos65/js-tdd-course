@@ -12,9 +12,9 @@
   "author": "Wagner Mattos <wagner_mattos@msn.com> (https://wgnr8.com.br/)",
   "license": "ISC",
   "devDependencies": {
-    "eslint": "^4.19.1",
-    "eslint-config-airbnb-base": "^13.0.0",
-    "eslint-plugin-import": "^2.13.0",
-    "husky": "^1.0.0-rc.9"
+    "eslint": "^7.5.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.0",
+    "husky": "^4.2.5"
   }
 }
